@@ -1,0 +1,12 @@
+{
+    "repos": {
+        "spring-rest-seed": [
+            "Maven.+",
+            "Spring.+"
+        ],
+        "$default$": [
+            "Maven.+",
+            "Spring.+"
+        ]
+    }
+}

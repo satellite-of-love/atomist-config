@@ -1,0 +1,12 @@
+{
+    "broadcast": {
+        "spring-rest-seed": {
+            "features": [
+                {
+                    "name": "SpringBoot.Structure",
+                    "followers": []
+                }
+            ]
+        }
+    }
+}
