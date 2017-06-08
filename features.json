@@ -7,6 +7,16 @@
                     "followers": []
                 }
             ]
+        },
+        "java-lib-seed": {
+            "features": [
+                {
+                    "name": "SpringBoot.Structure",
+                    "followers": [
+                        "survey-source"
+                    ]
+                }
+            ]
         }
     }
 }

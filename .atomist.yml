@@ -1,0 +1,14 @@
+---
+kind: "operation"
+client: "com.atomist:rug"
+version: "1.0.0-20170608065255"
+editor:
+  name: "AddFeatureFollowerEditor"
+  group: "atomist"
+  artifact: "spring-team-handlers"
+  version: "0.2.25"
+  parameters:
+    - "broadcaster": "java-lib-seed"
+    - "follower": "survey-source"
+    - "featureName": "SpringBoot.Structure"
+
