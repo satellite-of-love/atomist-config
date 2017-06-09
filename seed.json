@@ -1,3 +1,6 @@
-{ "parameters" : { "groupId": "satellite-of-love", 
-     "rootPackage": "com.jessitron" }
+{ "parameters" : 
+   { "groupId" : "satellite-of-love", 
+     "rootPackage" : "com.jessitron",
+     "version" : "1.0.0"
+   }
 }
