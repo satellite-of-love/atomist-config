@@ -1,5 +1,8 @@
 {
     "repos": {
+        "elm-rugs": [
+           "npm.+"
+        ],
         "spring-rest-seed": [
             "Maven.+",
             "Spring.+"
