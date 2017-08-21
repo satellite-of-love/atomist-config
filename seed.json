@@ -3,4 +3,8 @@
      "rootPackage" : "com.jessitron",
      "version" : "1.0.0"
    }
+  "excludes" :
+  {
+    "spring-rest-seed" : [ ".travis.yml" ]
+  }
 }
